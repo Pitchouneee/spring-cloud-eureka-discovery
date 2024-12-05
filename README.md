@@ -1,7 +1,7 @@
 # Spring Cloud Eureka Discovery Server  
 
 This project is a **Eureka Discovery Server** built in Spring Cloud, designed to manage service registration and discovery
-in a distributed system. It is ideal for microservices environments, facilitationg seamless service communication
+in a distributed system. It is ideal for microservices environments, facilitating seamless service communication
 
 ## Features  
 
