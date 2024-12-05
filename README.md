@@ -43,8 +43,6 @@ management:
 - **Maven**
 - **Docker (optional)**
 
----
-
 ## Installation and usage
 
 1. **Clone the repository** :
@@ -66,15 +64,11 @@ management:
 4. Access to the Eureka dashboard :  
    Open a browser and navigate to [http://localhost:8761](http://localhost:8761)
 
----
-
 ## Dependencies
 
 - **Spring Boot Starter Actuator** : provides moniotoring and management endpoints
 - **Spring Cloud Netflix Eureka Server** : implements the Eureka server
 - **Caffeine** : offers high-performance caching capabilities
-
----
 
 ## Contribution
 
